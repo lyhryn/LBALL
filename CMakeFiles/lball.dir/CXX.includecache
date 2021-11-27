@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wsl/LBALL/src/game/game.h
+
+/home/wsl/LBALL/src/game/lball.h
+SFML/Window/Keyboard.hpp
+-
+game/game.h
+/home/wsl/LBALL/src/game/game/game.h
+
+/home/wsl/LBALL/src/main.cpp
+stdio.h
+-
+stdlib.h
+-
+SFML/Graphics.hpp
+-
+SFML/Window/Keyboard.hpp
+-
+game/game.h
+/home/wsl/LBALL/src/game/game.h
+game/lball.h
+/home/wsl/LBALL/src/game/lball.h
+

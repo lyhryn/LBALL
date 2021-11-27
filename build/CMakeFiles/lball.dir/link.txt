@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/lball.dir/src/main.cpp.o  -o output/lball  -lsfml-system -lsfml-window -lsfml-graphics 

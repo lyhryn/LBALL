@@ -1,0 +1,3 @@
+/home/wsl/LBALL/build/CMakeFiles/rebuild_cache.dir
+/home/wsl/LBALL/build/CMakeFiles/edit_cache.dir
+/home/wsl/LBALL/build/CMakeFiles/lball.dir

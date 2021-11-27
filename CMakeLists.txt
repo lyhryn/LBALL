@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "output/")
+
+project(lball)
+add_executable(lball src/main.cpp)
+target_include_directories(lball PUBLIC /usr/include/SFML)
+target_include_directories(lball PUBLIC src/)
+target_link_libraries(lball sfml-system sfml-window sfml-graphics)

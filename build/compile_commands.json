@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wsl/LBALL/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SFML -I/home/wsl/LBALL/src  -g   -std=gnu++17 -o CMakeFiles/lball.dir/src/main.cpp.o -c /home/wsl/LBALL/src/main.cpp",
+  "file": "/home/wsl/LBALL/src/main.cpp"
+}
+]
